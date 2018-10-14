@@ -1,5 +1,0 @@
-simple drbd module
-
-drbd - configures drbd and ensures that it is running
-
-drbd::resouce used to configure individual resources
